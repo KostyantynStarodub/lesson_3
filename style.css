@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vibur&display=swap');
+body{
+    background-color: bisque;
+}
+table{
+    margin: auto;
+    width: 900px;
+    height: 600px;
+}
+th{
+    background-color:orangered;
+    color: darkblue;
+    font-family: 'Vibur', cursive;
+}
+.maths{
+    background-color: aquamarine;
+    font-family: 'Vibur', cursive;
+}
+.foreign_litr{
+    background-color: blueviolet;
+    font-family: 'Vibur', cursive;
+}
+.ukr{
+    background-color: cornflowerblue;
+    font-family: 'Vibur', cursive;
+}
+.PE{
+    background-color: darkcyan;
+    font-family: 'Vibur', cursive;
+}
+.chemistry{
+    background-color: darkolivegreen;
+    font-family: 'Vibur', cursive;
+}
+.english{
+    background-color: darkturquoise;
+    font-family: 'Vibur', cursive;
+}
+.physics{
+    background-color: dodgerblue;
+    font-family: 'Vibur', cursive;
+}
+.patriotism{
+    background-color: lightskyblue;
+    font-family: 'Vibur', cursive;
+}
+.combine{
+    background-color: magenta;
+    font-family: 'Vibur', cursive;
+}
+.art{
+    background-color: mediumaquamarine;
+    font-family: 'Vibur', cursive;
+}
+.biology{
+    background-color: mediumslateblue;
+    font-family: 'Vibur', cursive;
+}
+.history{
+    background-color: powderblue;
+    font-family: 'Vibur', cursive;
+}
+.geo{
+    background-color: forestgreen;
+    font-family: 'Vibur', cursive;
+}
+.space{
+    background-color: greenyellow;
+    font-family: 'Vibur', cursive;
+}
+.IT{
+    background-color: olivedrab;
+    font-family: 'Vibur', cursive;
+}
+td{
+    background-color: white;
+}
+h1{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 30px;
+}
